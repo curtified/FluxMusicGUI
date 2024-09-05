@@ -7,9 +7,9 @@ This repo contains a Graphical User Interface (GUI) implementation of the FluxMu
 
 ### FluxMusic GUI
 
-<img src=visuals/FluxMusicGUIsc.png width=400 />
+<img src=visuals/FluxMusicGUIsc.png width=600 />
 
-We have created a user-friendly GUI for FluxMusic using Gradio. This interface allows users to easily generate music based on text prompts without needing to interact with command-line interfaces.
+I created a user-friendly GUI for FluxMusic using Gradio. This interface allows users to easily generate music based on text prompts without needing to interact with command-line interfaces.
 
 #### Features:
 
