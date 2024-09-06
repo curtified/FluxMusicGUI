@@ -2,6 +2,7 @@
 
 <a href="https://arxiv.org/abs/2409.00587"><img src="https://img.shields.io/static/v1?label=Paper&message=FluxMusic&color=purple&logo=arxiv"></a> &ensp;
 <a href="https://huggingface.co/feizhengcong/fluxmusic"><img src="https://img.shields.io/static/v1?label=Models&message=HuggingFace&color=yellow"></a> &ensp;
+<a src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" href="https://huggingface.co/spaces/flosstradamus/FluxMusicGUI"><img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" alt="Open in Spaces">
 
 This repo contains a Graphical User Interface (GUI) implementation of the FluxMusic model, based on the paper *Flux that plays music*. It explores a simple extension of diffusion-based rectified flow Transformers for text-to-music generation.
 
