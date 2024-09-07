@@ -1,4 +1,5 @@
 torch
+torchaudio
 gradio
 einops
 diffusers
@@ -17,6 +18,7 @@ pandas
 timm
 matplotlib
 thop
-flash-attn==2.6.3
+# flash-attn==2.6.3
 sentencepiece
 Pillow
+progressbar
