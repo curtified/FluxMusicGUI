@@ -17,6 +17,5 @@ pandas
 timm
 matplotlib
 thop
-flash-attn==2.6.3
 sentencepiece
 Pillow
